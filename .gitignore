@@ -1,3 +1,6 @@
+# ignore these files
+additional_consideration.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
